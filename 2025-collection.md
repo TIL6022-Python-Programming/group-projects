@@ -33,8 +33,11 @@ Use the list below to jump to a specific group:
 - [Group 26](#group-26)⭐
 - [Group 27](#group-27)
 
+
 ⛵: SAIL Amsterdam 2025 related topic
+
 ⭐: Featured projects chosen by instructors
+
 ---
 
 ## Group 1
